@@ -6,3 +6,6 @@ This is where I learn Git!
 - [x] Git Basics
 - [ ] Branching
 - [ ] GitHub
+
+## Current Experiments
+- Trying out branching!
